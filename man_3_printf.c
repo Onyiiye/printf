@@ -66,4 +66,4 @@ _printf("%s, %s %d, %d\\n", weekday, month, day, year);
 .SH BUGS
 No known bugs.
 .SH AUTHOR
-Ezenwa Ndubuzor, Onyiyechukwu Helda
+Ezenwa Ndubuzor, Onyiyechukwu Odidika
